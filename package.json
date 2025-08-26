@@ -1,0 +1,23 @@
+{
+  "name": "chinese-calendar-pwa",
+  "version": "1.0.0",
+  "description": "A Progressive Web App Chinese Calendar with offline support",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server -p 3000 -c-1",
+    "build": "echo 'Build completed - no minification needed for this simple project'"
+  },
+  "keywords": [
+    "chinese",
+    "calendar",
+    "pwa",
+    "offline",
+    "lunar",
+    "农历"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
